@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Evolution Craft",
-  "version": "Alpha 0.6",
+  "version": "Alpha 0.7",
   "author": "",
   "files": [
     {
@@ -930,6 +930,11 @@
       "required": true
     },
     {
+      "projectID": 963245,
+      "fileID": 5041310,
+      "required": true
+    },
+    {
       "projectID": 252848,
       "fileID": 3858196,
       "required": true
@@ -1740,13 +1745,13 @@
       "required": true
     },
     {
-      "projectID": 245174,
-      "fileID": 3951068,
+      "projectID": 250363,
+      "fileID": 3642382,
       "required": true
     },
     {
-      "projectID": 250363,
-      "fileID": 3642382,
+      "projectID": 245174,
+      "fileID": 3951068,
       "required": true
     },
     {
@@ -1765,13 +1770,13 @@
       "required": true
     },
     {
-      "projectID": 471136,
-      "fileID": 4640913,
+      "projectID": 460341,
+      "fileID": 4558635,
       "required": true
     },
     {
-      "projectID": 460341,
-      "fileID": 4558635,
+      "projectID": 471136,
+      "fileID": 4640913,
       "required": true
     },
     {
@@ -1792,11 +1797,6 @@
     {
       "projectID": 404465,
       "fileID": 4396792,
-      "required": true
-    },
-    {
-      "projectID": 666198,
-      "fileID": 4318732,
       "required": true
     },
     {
@@ -1985,23 +1985,23 @@
       "required": true
     },
     {
-      "projectID": 74924,
-      "fileID": 5134546,
-      "required": true
-    },
-    {
       "projectID": 503301,
       "fileID": 3776908,
       "required": true
     },
     {
-      "projectID": 899386,
-      "fileID": 4805882,
+      "projectID": 74924,
+      "fileID": 5134546,
       "required": true
     },
     {
       "projectID": 313970,
       "fileID": 4634636,
+      "required": true
+    },
+    {
+      "projectID": 899386,
+      "fileID": 4805882,
       "required": true
     },
     {
@@ -2045,13 +2045,13 @@
       "required": true
     },
     {
-      "projectID": 297028,
-      "fileID": 3669122,
+      "projectID": 291737,
+      "fileID": 4759910,
       "required": true
     },
     {
-      "projectID": 291737,
-      "fileID": 4759910,
+      "projectID": 297028,
+      "fileID": 3669122,
       "required": true
     },
     {
