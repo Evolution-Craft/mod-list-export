@@ -3,7 +3,7 @@
     "version": "1.18.2",
     "modLoaders": [
       {
-        "id": "forge-40.2.17",
+        "id": "forge-40.2.18",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Evolution Craft",
-  "version": "Alpha 0.13",
+  "version": "Alpha 0.14",
   "author": "",
   "files": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 5157929,
+      "fileID": 5203341,
       "required": true
     },
     {
@@ -417,6 +417,11 @@
     {
       "projectID": 225643,
       "fileID": 3936568,
+      "required": true
+    },
+    {
+      "projectID": 637808,
+      "fileID": 3854764,
       "required": true
     },
     {
@@ -1111,7 +1116,7 @@
     },
     {
       "projectID": 690971,
-      "fileID": 5195183,
+      "fileID": 5204095,
       "required": true
     },
     {
