@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Evolution Craft",
-  "version": "Alpha 0.26",
+  "version": "Alpha 0.27",
   "author": "",
   "files": [
     {
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 610632,
-      "fileID": 4489732,
+      "fileID": 5643209,
       "required": true
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 4973439,
+      "fileID": 5729090,
       "required": true
     },
     {
@@ -227,11 +227,6 @@
     {
       "projectID": 377448,
       "fileID": 3807783,
-      "required": true
-    },
-    {
-      "projectID": 585406,
-      "fileID": 4365860,
       "required": true
     },
     {
@@ -382,11 +377,6 @@
     {
       "projectID": 682567,
       "fileID": 4685941,
-      "required": true
-    },
-    {
-      "projectID": 342929,
-      "fileID": 4034865,
       "required": true
     },
     {
@@ -895,8 +885,13 @@
       "required": true
     },
     {
+      "projectID": 682644,
+      "fileID": 4043924,
+      "required": true
+    },
+    {
       "projectID": 495476,
-      "fileID": 5114509,
+      "fileID": 5729908,
       "required": true
     },
     {
@@ -961,7 +956,7 @@
     },
     {
       "projectID": 602171,
-      "fileID": 5480589,
+      "fileID": 5742664,
       "required": true
     },
     {
@@ -1031,7 +1026,7 @@
     },
     {
       "projectID": 499980,
-      "fileID": 5503318,
+      "fileID": 5660287,
       "required": true
     },
     {
@@ -1806,7 +1801,7 @@
     },
     {
       "projectID": 243707,
-      "fileID": 5520503,
+      "fileID": 5633958,
       "required": true
     },
     {
@@ -1917,6 +1912,11 @@
     {
       "projectID": 389665,
       "fileID": 3855186,
+      "required": true
+    },
+    {
+      "projectID": 570630,
+      "fileID": 4105690,
       "required": true
     },
     {
